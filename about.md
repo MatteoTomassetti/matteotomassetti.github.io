@@ -6,17 +6,13 @@ permalink: /about/
 
 ### More Information
 
-I am currently a Post-Doctoral Fellow at the Racah Institute of Physics, the Hebrew University of Jerusalem.
+Data scientist based in London specialised in natural language processing (text analysis, parsing, classification, querying and spell-checking).
 
-I have pursued research on numerical simulations of galaxy formation and worked on projects with Prof. Dr. Cristiano Porciani, Prof. Dr. Avishai Dekel and Prof. Piero Madau.
+Former astrophysicist with years of experience of running and analyzing complex numerical simulations on HPC clusters.
 
-Some of the highlights of our projects include: the synthesis of simulated data to produce [mock atomic carbon maps](http://www3.uni-bonn.de/Press-releases/new-window-on-the-early-universe) for upcoming ALMA observations and the study of the connection between the [morphology and the evolutionary state of a galaxy](http://bit.ly/1Kb50Fe).
+Machine Learning, Data Analysis and RESTful APIs with Python and the most popular SQL and non-SQL databases.
 
-A full list of my publications can be found on [ADS](http://cdsads.u-strasbg.fr/cgi-bin/nph-abs_connect?return_req=no_params&amp;author=Tomassetti,%20Matteo&amp;db_key=AST) or on [arXiv](http://arxiv.org/find/astro-ph/1/au:+Tomassetti_M/0/1/0/all/0/1)
-
-I recently moved to San Francisco to join the Metis group as a data scientist for a 12-week program.
-
-Check out all of my [non-academic projects](http://www.matteotomassetti.com/#projects).
+Currently working in the Artificial Intelligence team of Your.MD, the free personal health assistant.
 
 ### Visit my portfolio
 
